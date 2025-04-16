@@ -1,0 +1,26 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "It say about weather",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DostonEliboyev/weather-cli.git"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "Doston Eliboyev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DostonEliboyev/weather-cli/issues"
+  },
+  "homepage": "https://github.com/DostonEliboyev/weather-cli#readme",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
